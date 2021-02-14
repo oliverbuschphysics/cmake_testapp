@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/cmake_testapp.dir/main.cpp.o CMakeFiles/cmake_testapp.dir/test/tests.cpp.o  -o cmake_testapp  ../lib/libtest_library.a 

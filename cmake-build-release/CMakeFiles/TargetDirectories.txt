@@ -1,0 +1,5 @@
+/home/oli/CLionProjects/cmake_testapp/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/oli/CLionProjects/cmake_testapp/cmake-build-release/CMakeFiles/cmake_testapp.dir
+/home/oli/CLionProjects/cmake_testapp/cmake-build-release/CMakeFiles/test_library.dir
+/home/oli/CLionProjects/cmake_testapp/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/oli/CLionProjects/cmake_testapp/cmake-build-release/CMakeFiles/cmake_testapp_calc.dir

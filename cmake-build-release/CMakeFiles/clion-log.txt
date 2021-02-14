@@ -1,0 +1,11 @@
+/snap/clion/139/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/oli/CLionProjects/cmake_testapp
+CMake Error at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:164 (message):
+  Could NOT find Boost (missing: Boost_INCLUDE_DIR unit_test_framework)
+Call Stack (most recent call first):
+  /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:445 (_FPHSA_FAILURE_MESSAGE)
+  /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindBoost.cmake:2166 (find_package_handle_standard_args)
+  test/CMakeLists.txt:15 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/oli/CLionProjects/cmake_testapp/cmake-build-release/CMakeFiles/CMakeOutput.log".
